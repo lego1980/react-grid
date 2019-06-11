@@ -4,7 +4,7 @@ import './LayoutGrid2.css';
 export const LayoutGrid2 = () => (
     <div className={"LayoutGrid2"}>
         {
-        /*
+        /* test
         <header>
             <h1 className="title">Card Layout</h1>
             <div className="options">
